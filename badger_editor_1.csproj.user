@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="box_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customize_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="custom_text_box_1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="edit_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="file_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="info_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list_box_1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="load_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main_form_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notification_form_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="text_box_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tool_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vertical_scrollbar_1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
